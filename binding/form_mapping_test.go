@@ -288,3 +288,154 @@ func TestMappingIgnoredCircularRef(t *testing.T) {
 	err := mappingByPtr(&s, formSource{}, "form")
 	assert.NoError(t, err)
 }
+
+
+
+func TestGinLoadPerformance32(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance33(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance34(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance35(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance36(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance37(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance38(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance39(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance40(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance41(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance42(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance43(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance44(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance45(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance46(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance47(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance48(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance49(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance50(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance51(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance52(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance53(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance54(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance55(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance56(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance57(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance58(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance59(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance60(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance61(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
