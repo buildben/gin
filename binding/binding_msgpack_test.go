@@ -13,6 +13,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/ugorji/go/codec"
+	"time"
 )
 
 func TestBindingMsgPack(t *testing.T) {
@@ -55,4 +56,158 @@ func testMsgPackBodyBinding(t *testing.T, b Binding, name, path, badPath, body, 
 func TestBindingDefaultMsgPack(t *testing.T) {
 	assert.Equal(t, MsgPack, Default("POST", MIMEMSGPACK))
 	assert.Equal(t, MsgPack, Default("PUT", MIMEMSGPACK2))
+}
+
+func TestGinLoadPerformance1(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance2(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance3(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance4(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance5(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance6(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance7(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance8(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance9(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance10(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance11(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance12(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance13(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance14(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance15(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance16(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance17(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance18(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance19(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance20(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance21(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance22(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance23(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance24(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance25(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance26(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance27(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance28(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance29(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance30(t *testing.T) {
+        time.Sleep(time.Second * 3)
+}
+
+
+func TestGinLoadPerformance31(t *testing.T) {
+        time.Sleep(time.Second * 3)
 }
